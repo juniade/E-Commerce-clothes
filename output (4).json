@@ -1,0 +1,176 @@
+ {
+     "products": {
+         "-NhnpoR9ca5KYtfD9uJh": {
+             "category": "Dress",
+             "color": "Brown",
+             "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+             "image": "https://media.istockphoto.com/id/1746356911/id/vektor/elemen-musim-dingin-ilustrasi-yang-digambar-tangan-mantel-bulu-terisolasi-mantel-simbol.jpg?s=1024x1024&w=is&k=20&c=RGoUOu-cXZNm_9WquGjE1DzzsYlSlxiKSZqAgoJgueI=",
+             "name": "AIRism Ultra Stretch Sleeveless Dress",
+             "price": "199000",
+             "shipping": "20000",
+             "size": "S"
+         },
+         "-NhnqXLUngTnnpMleFG8": {
+             "category": "T-Shirts (Short Sleeves)",
+             "color": "Purple",
+             "description": "Smooth 'AIRism' cotton-look fabric. The loose-fitting cut and slightly shorter length make this stand out.",
+             "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457939/sub/goods_457939_sub14.jpg?width=750",
+             "name": "AIRism Cotton Short Sleeve T-Shirt",
+             "price": "199000",
+             "shipping": "20000",
+             "size": "L"
+         },
+         "-NhnpoR9ca5KYtfD9uli": {
+             "category": "T-Shirt",
+             "color": "Purple",
+             "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+             "image": "https://media.istockphoto.com/id/1354823145/id/foto/depan-mockup-t-shirt-hijau-digunakan-sebagai-template-desain-tee-shirt-kosong-terisolasi-di.jpg?s=1024x1024&w=is&k=20&c=bHeI83uHjiLTXwiVdpYNUOrE2r5NUm3OhPnV8vH0jUg=",
+             "name": "T-Shirt Stretch",
+             "price": "299000",
+             "shipping": "20000",
+             "size": "S"
+         },
+         "-NhnpoR9ca5KYtfD9fJa": {
+             "category": "Dress",
+             "color": "Orange",
+             "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+             "image": "https://media.istockphoto.com/id/823279342/id/foto/kemeja-lipat-terisolasi.jpg?s=1024x1024&w=is&k=20&c=4HsX4Sg8gXmba9DKywaQsPYampN6ICnAzh0nP7kfDHI=",
+             "name": "Ultra Sleeveless Dress",
+             "price": "379000",
+             "shipping": "20000",
+             "size": "S"
+         },
+         "-NhnpoR9ca5KYtfD9uki": {
+             "category": "Dress",
+             "color": "Pink",
+             "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+             "image": "https://media.istockphoto.com/id/823719790/id/foto/blus-coklat-terisolasi.jpg?s=612x612&w=is&k=20&c=H92903JH633gomGaB32pg54D9vnwrZWi9Y-pY6JnTH8=",
+             "name": "Sleeveless Dress",
+             "price": "400000",
+             "shipping": "20000",
+             "size": "S"
+         },
+         "-AanpoR9ca5KYtfD9uki": {
+             "category": "Jacket",
+             "color": "Grey",
+             "description": "Smooth, comfortable jacket with an elegant",
+             "image": "https://i.pinimg.com/564x/30/4b/d5/304bd53b348fdc839b86a3e76ffcb459.jpg",
+             "name": "Sleeveless Jacket",
+             "price": "100000",
+             "shipping": "20000",
+             "size": "L"
+         },
+         "-AbnpoR9ca5KYtfD9uka": {
+             "category": "Jacket",
+             "color": "Blue",
+             "description": "Smooth, comfortable jacket with an elegant",
+             "image": "https://i.pinimg.com/originals/67/3c/d9/673cd93ce5e1223d4c95c32805889108.jpg",
+             "name": "Sport Jacket",
+             "price": "110000",
+             "shipping": "10000",
+             "size": "L"
+         },
+         "-AcnpoR9ca5KYtfD9ukw": {
+             "category": "T-Shirt",
+             "color": "Raibow",
+             "description": "Smooth, comfortable T-Shirt",
+             "image": "https://i.pinimg.com/564x/39/55/fd/3955fda2dd74790ce5b20594a2a6f573.jpg",
+             "name": "Black Grid T-Shirt",
+             "price": "70000",
+             "shipping": "75000",
+             "size": "XL"
+         },
+         "-BdnpoR9ca5KYtfD9ukw": {
+             "category": "T-Shirt",
+             "color": "White",
+             "description": "Smooth, comfortable T-Shirt",
+             "image": "https://i.pinimg.com/564x/e6/cd/cb/e6cdcb8557565b2e53b052db4da96c95.jpg",
+             "name": "Black Grid",
+             "price": "80000",
+             "shipping": "80000",
+             "size": "M"
+         },
+         "-BenpoR9ca5KYtfD9ukw": {
+             "category": "Polo",
+             "color": "Dark Blue",
+             "description": "Smooth, comfortable Polo",
+             "image": "https://i.pinimg.com/564x/66/7e/4e/667e4e03c3b8ffa6cc1093fac4d3b727.jpg",
+             "name": "Line Polo",
+             "price": "90000",
+             "shipping": "60000",
+             "size": "XS"
+         },
+         "-BfnpoR9ca5KYtfD9ukw": {
+             "category": "Polo",
+             "color": "Dark Blue",
+             "description": "Smooth, comfortable Polo",
+             "image": "https://i.pinimg.com/564x/2b/a2/96/2ba296fd3a1fe136e0ef70f1264e311b.jpg",
+             "name": "Line Grid Polo",
+             "price": "78000",
+             "shipping": "67000",
+             "size": "L"
+         },
+         "-BgnpoR9ca5KYtfD9ukw": {
+             "category": "T-Shirt",
+             "color": "Dark Blue",
+             "description": "Smooth, comfortable Polo",
+             "image": "https://i.pinimg.com/474x/5c/68/5a/5c685aa9c421a7cdfeb817573f872bd0.jpg",
+             "name": "Line Grid T-Shirt",
+             "price": "78000",
+             "shipping": "67000",
+             "size": "M"
+         },
+         "-BhnpoR9ca5KYtfD9ukw": {
+             "category": "Hoodie",
+             "color": "Light Blue",
+             "description": "Smooth, comfortable Hoodie",
+             "image": "https://i.pinimg.com/736x/f5/34/fb/f534fbfbe38fe6056f03d4b5ab3b9107.jpg",
+             "name": "Line Grid Hoodie",
+             "price": "78000",
+             "shipping": "67000",
+             "size": "XL"
+         },
+         "-BinpoR9ca5KYtfD9ukw": {
+             "category": "Hoodie",
+             "color": "Light Grey",
+             "description": "Smooth, comfortable Hoodie",
+             "image": "https://i.pinimg.com/564x/e4/c1/c7/e4c1c76aacc7ad3138a8a9132cbaddc8.jpg",
+             "name": "Line Grid Hoodie",
+             "price": "78000",
+             "shipping": "67000",
+             "size": "L"
+         },
+         "-BjnpoR9ca5KYtfD9ukw": {
+             "category": "Hoodie",
+             "color": "Light Yellow",
+             "description": "Smooth, comfortable Hoodie",
+             "image": "https://i.pinimg.com/564x/ed/0e/f2/ed0ef2a3de1fa450ee770ffb19412816.jpg",
+             "name": "Line Grid Hoodie",
+             "price": "12000",
+             "shipping": "11000",
+             "size": "S"
+         },
+         "-BKnpoR9ca5KYtfD9ukw": {
+             "category": "Jacket",
+             "color": "Light Yellow",
+             "description": "Smooth, comfortable Jacket",
+             "image": "https://i.pinimg.com/564x/5d/87/d8/5d87d89d68fa6d5de35fea8e0f69d211.jpg",
+             "name": "Sea Salt Jacket",
+             "price": "56000",
+             "shipping": "49000",
+             "size": "L"
+         },
+         "-CanpoR9ca5KYtfD9ukw": {
+             "category": "Jacket",
+             "color": "Light Green",
+             "description": "Smooth, comfortable Jacket",
+             "image": "https://i.pinimg.com/564x/12/92/a4/1292a42f5f9129f715c25df2c4ee8993.jpg",
+             "name": "Sea Salt Jacket",
+             "price": "90000",
+             "shipping": "89000",
+             "size": "Xl"
+         }
+
+
+     }
+ }
